@@ -158,22 +158,22 @@
 
 ##  GitHub Stats  
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AliHaiderdept&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="170"
-    alt="Ali Haider GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=AliHaiderdept&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
+    width="48%"
+    alt="GitHub Stats"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaiderdept&layout=compact&theme=tokyonight&hide_border=true"
- height="170"
- alt="Ali Haider Top Languages"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaiderdept&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+ width="48%"
+ alt="Top Languages"
 />
 
 </p>
+
 
 <p align="center">
   <img
@@ -184,7 +184,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img
