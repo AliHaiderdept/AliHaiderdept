@@ -156,33 +156,16 @@
 
 
 
-##  GitHub Stats  
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AliHaiderdept&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
-    width="48%"
-    alt="GitHub Stats"
-  />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaiderdept&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
- width="48%"
- alt="Top Languages"
-/>
-
-</p>
-
+##  GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AliHaiderdept&theme=tokyo-night&hide_border=true&area=true"
-    alt="Ali Haider GitHub Activity Graph"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliHaiderdept&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaiderdept&layout=compact&hide_border=true&theme=github_dark" width="49%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHaiderdept&theme=github-dark&hide_border=true" width="98%" />
+</p>
 
 ## Contribution Snake
 
