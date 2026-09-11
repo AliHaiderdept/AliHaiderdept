@@ -158,11 +158,11 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-vercel.vercel.app?user=AliHaiderdept)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHaiderdept&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaiderdept&layout=compact)
+<p align= "center">
+<img
+  src="https://github-profile-trophy-orcin-eta.vercel.app/?username=AliHaiderDept&theme=algolia"
+  alt="Github stats"/>
+</p>
 
 ## Contribution Snake
 
