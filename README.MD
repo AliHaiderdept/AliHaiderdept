@@ -1,6 +1,6 @@
 #  Hi, I'm Ali Haider
 <p align="center">
-  <strong>A FULL-STACK WEB & MOBILE APPS DEVELOPER - ML/CyberSecurity Analyst</strong>
+  <strong>A FULL-STACK WEB & MOBILE APPS DEVELOPER - ML/CYBERSECURITY ANALYST</strong>
 </p>
 
 <p align="center">
