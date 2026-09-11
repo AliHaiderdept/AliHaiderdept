@@ -156,16 +156,13 @@
 
 
 
-##  GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHaiderdept&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaiderdept&layout=compact&hide_border=true&theme=github_dark" width="49%" />
-</p>
+![GitHub Streak](https://github-readme-streak-vercel.vercel.app?user=AliHaiderdept)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHaiderdept&theme=github-dark&hide_border=true" width="98%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliHaiderdept&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaiderdept&layout=compact)
 
 ## Contribution Snake
 
