@@ -1,6 +1,6 @@
 #  Hi, I'm Ali Haider
 <p align="center">
-  <strong>A FULL-STACK AI ASSISTED WEB & MOBILE APPS DEVELOPER</strong>
+  <strong>A FULL-STACK WEB & MOBILE APPS DEVELOPER - ML/CyberSecurity Analyst</strong>
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 ## 📌 About Me 
 -  CS student, passionate about **Coding** , **Inovations** & **Creativity**
 -  I’m currently working on **AI Automation and UI/UX Designings**
--  Currently working on **C++,Pythons for Automations and JavaScript**  
--  Learning **Web and Mobile Development & Backend Integration,AI Models, Machine Learning**  
+-  Currently working on **C++,Pythons for Automations and JavaScript/Typescript**  
+-  Learning **Web and Mobile Development & Backend Integration,AI Models, Machine Learning and Security Managements**  
 -  Open to collaborate on **Web Networks & Open Source and Python Projects**  
--  Ask me about **AI Models, C++, Automation,Cloud-based Solutions, Pythons Ideas, Full-Stack Web Projects**  
+-  Ask me about **AI Models, C++, Automation,Cloud-based Solutions, Pythons Ideas, Full-Stack Web Projects and Software Network Secuirty Checks**  
 - Based in **Lahore, Punjab, Pakistan**
   ---
 
